@@ -1,0 +1,257 @@
+body{
+    margin: 0;
+    font-family: "Alegreya Sans", sans-serif;
+}
+.home{
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding-top: 350px;
+    font-size: 30px;
+}
+.welcome-Parg{
+    font-size: 23px;
+}
+.home h1 {
+    font-family: "Alegreya";
+    margin-top: 5px; 
+}
+.title-Parg{
+    font-size: 26px;
+    width: 55%;
+    margin: auto;
+}
+.btn{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-bottom: 200px;
+    padding: 20px 30px;
+    border: solid 2px transparent;
+    border-radius: 5%;
+    color: #fff;
+    font-size: 16px;
+}
+.btn1{
+    background-color:#8e7754;
+}
+.btn2{
+    background-color: transparent;
+    border: solid 2px #fff;
+    border-radius: 5%;
+
+}
+.container{
+    width: 90%;
+    margin: auto;
+} 
+.who-we-are{
+    display: inline-block;
+    width: 45%;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.who-we-are img{
+    width: 100%;
+    margin-top: 40px;
+}
+.who-we-are h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: #303030;
+}
+.who-we-are p{
+    font-size: 17px;
+    color: #686868;
+    line-height: 1.86em;
+    margin-bottom: 20px;
+
+}
+.icon{
+    display: inline-block;
+    width: 40%;
+}
+.icon img{
+    width: 20%;
+    margin: 0;
+    border: solid 1px #dedede;
+    border-radius: 50%;
+}
+.icon p{
+    color: #686868;
+    font-size: 17px;
+}
+.location{
+    background-color: #f8f8f8;
+    margin-top: 60px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    padding-left: 19.5px;
+    padding-right: 19.5px;
+}
+.location-item{
+    width: 50%;
+    float: left;
+}
+.location-item img{
+    width: 90%;
+    padding-left: 50px;
+}
+.location-item h2{
+    font-size: 35px;
+    font-weight: 500;
+    color: #303030;
+}
+.location-item p{
+    font-size: 17px;
+    line-height: 1.86em;
+    margin-bottom: 20px;
+    color: #686868;
+}
+.paking{
+    text-align: center;
+    margin-top: 90px;
+}
+.paking h2{
+    font-size: 35px;
+    font-weight: 500;
+    color: #303030;
+}
+.paking p{
+    font-size: 17px;
+    line-height: 1.86em;
+    margin-bottom: 60px;
+    color: #686868;
+}
+.paking-item{
+    width: 33.3333%;
+    float: left;
+}
+.paking-item img{
+    width: 90%;
+}
+.paking-item h3{
+    font-weight: 500;
+    font-size: 20px;
+    color: #303030;
+}
+.paking-item p{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.86em;
+    margin-bottom: 0;
+    color: #686868;   
+}
+.contact-information{
+    margin-top: 90px;
+    padding: 90px 50px;
+    background-color: #f8f8f8;
+}
+.contact-item{
+    width: 50%;
+    float: left;
+}
+.contact-item h2{
+    font-size: 35px;
+    font-weight: 500;
+    color: #303030;
+}
+.contact-item p{
+    font-size: 17px;
+    line-height: 1.86em;
+    margin-bottom: 50px;
+    color: #686868;
+}
+.contact-item ul{
+   padding: 0;
+   margin: 0;
+}
+.contact-item ul li{
+    list-style: none;
+    padding: 15px 0;
+    padding-left: 52px;
+}
+.contact-item ul li img{
+    width: 6%;
+    border:solid 1px #686868 ;
+    border-radius: 50%;
+}
+
+.contact-item img{
+    width: 100%;
+}
+.footer{
+    background-color: #403d38;
+}
+.footer-item{
+    width: 25%;
+    float: left;
+    color: #969696;
+}
+.footer-item h2{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+}
+.footer-item p{
+    font-size: 17px;
+    line-height: 1.86em;
+    margin-bottom: 50px;
+}
+.footer-item ul{
+    padding: 0;
+    margin: 0;
+ }
+ .footer-item ul li{
+     list-style: none;
+     margin-bottom: 6px;
+     padding-bottom: 7px;
+     padding: 15px 0;
+     padding-left: 52px;
+     border-bottom: solid 1px rgba(255, 255, 255, 0.05);
+ }
+ .footer-item ul li:last-child {
+    border: none ;
+}
+ .footer-item ul li img{
+     width: 7%;
+     border:solid 1px #686868 ;
+     border-radius: 50%;
+ }
+ 
+ .footer-item img{
+     width: 100%;
+ }
+ .footer-footer{
+    text-align: center;
+    background-color: #353330;
+    padding-top: 60px;
+    color: #797979;
+ }
+ .footer-footer p{
+    font-size: 15px;
+    color: #777;
+    margin-top: 40px;
+ }
+ .footer-footer-item{
+    margin-top: 40px;
+ }
+ .footer-footer-item img{
+    width: 3%;
+    border:solid 1px #686868 ;
+    border-radius: 50%;
+    margin-bottom: 50px;
+    margin-left: 8px;
+ }
+.clear{
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
